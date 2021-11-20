@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1634376312 source:d:\code21\grafikom\shader1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1634409588 source:d:\code21\grafikom\shader1\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<cmath>
+
